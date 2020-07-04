@@ -5,7 +5,7 @@ subtitle: "More than just a romantic film"
 date: 2020-07-03
 background: '/img/film.jpg'
 ---
-<img style="float: right; width: 40%; padding: 0px 0px 10px 10px" src="/img/before-sunrise/before-sunrise-poster.jpg">
+<img style="float: right; width: 40%; padding: 0px 0px 10px 10px" src="/img/poster-before-sunrise.jpg">
 
 A film by Richard Linklater with Ethan Hawke and Julie Delpy as the leading actors, which tells the story of two people from different continents who meet on a train and suddenly start an adventure on Vienna streets. Knowing they have to part ways the next morning, they try make the best of their time. As they are trying to get to know each other as much as they possibly can in their very limited time, they also explore their ideas on things like love, relationships, happiness and more.
 
