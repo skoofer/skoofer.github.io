@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Book Review: The Last Days of Socrates"
-subtitle: ""
+subtitle: "by Plato"
 date: 2020-06-21
 background: '/img/library.jpg'
 ---
