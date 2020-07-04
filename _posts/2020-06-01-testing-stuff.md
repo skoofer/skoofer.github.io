@@ -2,8 +2,8 @@
 layout: post
 title: "Testing Stuff"
 subtitle: "This is the post subtitle."
-date: 2020-07-04
-background: '/PATH_TO_IMAGE'
+date: 2020-07-03
+background: '/img/bg-post.jpg'
 ---
 # Hello
 
