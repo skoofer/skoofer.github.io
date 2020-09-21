@@ -9,11 +9,11 @@ background: '/img/library.jpg'
 
 This is a letter by Thich Nhat Hanh —a Vietnamese Buddhist monk living on exile— to another monk in Vietnam in the midst of the war in 1975, later turned into a book. It is mainly a spiritual guide for the people of a war-torn country to guide them into a more mindful life.
 
-Although it starts describing the notion of Mindfulness in a simple and understandable way, including a few interesting techniques on breath-control and meditation; majority of the book then turns into a series of disconnected topics of Buddhist Philosophy from Nhat Hanh's eyes.
+Although it starts describing the notion of Mindfulness in a simple and understandable way, including a few interesting techniques on breath-control and meditation; majority of the book then turns into a series of disconnected topics of Buddhist Philosophy from Nhat Hanh’s eyes.
 
-The book didn't work well for me; because I had the expectation of introduction to the notions of Mindfulness & Meditation from an Eastern standpoint; whereas this is an more of an esoteric book of Buddhism philosophy.
+The book didn’t work well for me; because I had the expectation of introduction to the notions of Mindfulness & Meditation from an Eastern standpoint; whereas this is an more of an esoteric book of Buddhism philosophy.
 
-I would not recommend for people, like me, who is mostly interested in getting a perspective on Mindfulness. This one is too esoteric for such purpose. However there are a few techniques in there (e.g. washing the dishes mindfully) which can be tried out easily which makes it an OK book if you want to cultivate basic breath-control and mindfulness habits.
+I would not recommend for people, like me, who is mostly interested in getting just a perspective on Mindfulness and not go deep into it —especially not its ties to Buddhism—. This one is too esoteric for such purpose. However there are a few techniques in there (e.g. washing the dishes mindfully) which can be tried out easily which makes it an OK book if you want to cultivate basic breath-control and mindfulness habits into your daily life.
 
 My rating: 4/10
 
