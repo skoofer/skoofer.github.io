@@ -15,4 +15,5 @@ It is a short book of 52 pages —half of them are cover pages—, which is easy
 My rating: 7/10
 
 [Goodreads Page](https://www.goodreads.com/book/show/44834750-20-patterns-to-watch-for-in-your-engineering-team)
+
 [Link to the book](https://www.pluralsight.com/content/dam/pluralsight2/landing-pages/offers/flow/pdf/Pluralsight_20Patterns_ebook.pdf)
