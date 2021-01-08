@@ -7,7 +7,7 @@ background: '/img/library.jpg'
 ---
 <img style="float: right; width: 40%; padding: 0px 0px 10px 10px" src="/img/book-cover-20-patterns.jpg">
 
-This is a collection of 20 work patterns of individuals and teams of Software Engineers, with details of "What is it?" and "How to recognize it?", as well as suggestions on "What to do?" by Pluralsight. Pluralsight, especially after acquiring GitPrime, has been focused a lot on the data & metrics side of Software Development. Using their experience and expertise, they ca,e up with this guide to help Managers and Leaders with recognizing patterns in their teams and team members, and act accordingly.
+This is a collection of 20 work patterns of individuals and teams of Software Engineers, with details of "What is it?" and "How to recognize it?", as well as suggestions on "What to do?" by Pluralsight. Pluralsight, especially after acquiring GitPrime, has been focused a lot on the data & metrics side of Software Development. Using their experience and expertise, they came up with this guide to help Managers and Leaders with recognizing patterns in their teams and team members, and act accordingly.
 
 It is a short book of 52 pages —half of them are cover pages—, which is easy and concise. Some patterns are quite obvious; but a few of them were very interesting. Although it is not an "eye-opener" material, it is definitely worth the time. 
 
