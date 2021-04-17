@@ -15,7 +15,7 @@ Emrah Safa Gürkan'ı Youtube'dan takip ederim. Özellikle genç insanlara tarih
 
 Yazarın bu kitapta yapmaya çalıştığı şey yazım dilini ve seviyeyi "sıkıcı" kalın tarih kitaplarından biraz aşağı düşürüp, ancak yinede seviyeyi hala biraz yukarıda tutmak ve genel okuyucu kitlesininin entellektüel seviyesini biraz yukarı çıkartmak. Açıkçası yazarın yapmaya çalıştığı şeyi anladım ve iyi bir fikir olduğunu düşündüm. Ancak sonucun tam olarak bu fikri yansıttığını söyleyemem. Çok fazla espri ve laubali dil kullanımı biraz göze batıyor.
 
-Eğer Emrah Safa Gürkan'i Youtube'dan yakın takip eden biriyseniz, bu kitap size çok tanıdık gelecektir çünkü yazar kitaptaki konuların aşağı yukarı her birini bir Youtube programında anlattı. Yine de bu ilgi çeken konuları kitap formatında Emrah SafaGürkan'in esprili dilinden okumak zamaniniza değecektir.
+Eğer Emrah Safa Gürkan'i Youtube'dan yakın takip eden biriyseniz, bu kitap size çok tanıdık gelecektir çünkü yazar kitaptaki konuların aşağı yukarı her birini bir Youtube programında anlattı. Yine de bu ilgi çeken konuları kitap formatında Emrah Safa Gürkan'in esprili dilinden okumak zamaniniza değecektir.
 
 
 Değerlendirmem: 7/10
