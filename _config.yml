@@ -11,7 +11,7 @@ github_username: skoofer
 linkedin_username: serkan-olgun
 
 # Build settings
-remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll@2b27cc8aa52234f701af0847d7969fdc019ae4fd
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 markdown: kramdown
 paginate: 5
 paginate_path: "/posts/page:num/"
