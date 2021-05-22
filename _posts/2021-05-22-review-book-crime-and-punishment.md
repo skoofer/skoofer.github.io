@@ -7,7 +7,7 @@ background: '/img/library.jpg'
 ---
 <img style="float: right; width: 40%; padding: 0px 0px 10px 10px" src="/img/book-cover-crime-and-punishment.jpg">
 
-Completed in 1866, Crime and Punishment is a classic and a masterpiece from Fyodor Dostoyevsky. It is the story of Raskolnikov, an impoverished university dropout who commits a crime, and hoe this crime affects him and lives of the people around him. A simple and neat premise but executed so brilliantly that makes this book one of the wonders of Russian literature.
+Completed in 1866, Crime and Punishment is a classic and a masterpiece from Fyodor Dostoyevsky. It is the story of Raskolnikov, an impoverished university dropout who commits a crime, and the story of how this crime affects him and the lives of the people around him. A simple and neat premise but executed so brilliantly that makes this book one of the wonders of Russian literature.
 
 What makes this book so unique is not the story line or any plot twists. If someone asks you "what happens in the book?", you can give the whole plot in a matter of a few minutes despite how "thick" the book is. Not much actually "happens" in the story and there is only a handful of main characters. What is special about Crime and Punishment is that through the eyes of Raskolnikov —and people around him—, you get to see what humans are made of —figuratively—. You get to know everything about them: how they think, what drives them, what horrifies them, how they deceive themselves etc. Many times you may feel like you are looking into a mirror. Dostoyevsky is a master of human psychology. Nietzsche famously said “Dostoyevsky, the only psychologist from whom I had something to learn”.
 
