@@ -13,6 +13,6 @@ What makes this book so unique is not the story line or any plot twists. If some
 
 There are numerous translations of Crime and Punishment and I had to do some research beforehand as I was concerned to come across a translation with many "old" words and phrases which may be a challenge for someone English is not the first language. After some research, I landed on the Oxford World's Classics version of it with the translation from Nicolas Pasternak Slater —who happens to be the nephew of the renowned Russian poet Boris Pasternak. In the end I was relieved to had made a good decision for the used language is "modern". Though I am not surprised to see that "learning Russian enough to read Dostoyevsky" is a popular thing according to the internet.
 
-My rating: 9/10
+My rating: 10/10
 
 [Goodreads Page](https://www.goodreads.com/book/show/36227902-crime-and-punishment)
